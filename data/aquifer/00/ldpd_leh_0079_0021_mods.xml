@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mods="http://www.loc.gov/mods/v3"
+           version="3.2">
+   <mods:identifier displayLabel="Lehman Papers ID" type="local">ldpd_leh_0079_0021</mods:identifier>
+   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+   <mods:language>
+      <mods:languageTerm type="text">English</mods:languageTerm>
+      <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+   </mods:language>
+   <mods:titleInfo>
+      <mods:title>Letter, 1948 July 23</mods:title>
+   </mods:titleInfo>
+   <mods:originInfo>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1948-07-23</mods:dateCreated>
+   </mods:originInfo>
+   <mods:physicalDescription>
+      <mods:extent>1 p.</mods:extent>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+      <mods:reformattingQuality>access</mods:reformattingQuality>
+      <mods:internetMediaType>text/html</mods:internetMediaType>
+      <mods:internetMediaType>image/jpeg</mods:internetMediaType>
+   </mods:physicalDescription>
+   <mods:note>The entire content of the original has been digitized</mods:note>
+   <mods:accessCondition type="useAndReproduction">For rights relating to this resource, visit
+                http://ldpd.lamp.columbia.edu/lehman/rights/</mods:accessCondition>
+   <mods:relatedItem type="host">
+      <mods:titleInfo>
+         <mods:title>Bloom, Sol [Correspondence]. Herbert H. Lehman Papers, Special Correspondence Files.</mods:title>
+      </mods:titleInfo>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:location>
+         <mods:url usage="primary display" access="object in context">http://ldpd.lamp.columbia.edu/lehman/search/?file_unittitle_t=Bloom, Sol</mods:url>
+      </mods:location>
+      <mods:note>Online collection published by Columbia University, New York, NY</mods:note>
+   </mods:relatedItem>
+   <mods:targetAudience authority="marctarget">general</mods:targetAudience>
+   <mods:location>
+      <mods:physicalLocation authority="marcOrg">Rare Book and Manuscript Library, Columbia University</mods:physicalLocation>
+      <mods:physicalLocation authority="marcOrg">NNC-RB</mods:physicalLocation>
+      <mods:url access="object in context" usage="primary display">http://ldpd.lamp.columbia.edu/lehman/document_id=ldpd_leh_0079_0021</mods:url>
+   </mods:location>
+   <mods:name type="personal" authority="naf">
+      <mods:namePart>Lehman, Herbert H. (Herbert Henry)</mods:namePart>
+      <mods:namePart type="date">1878-1963</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="code" authority="marcrelator">crp</mods:roleTerm>
+         <mods:roleTerm type="text" authority="marcrelator">Correspondent</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:subject authority="lcsh">
+      <mods:geographic>United States--Politics and government--1865-1950</mods:geographic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:geographic>United States--Politics and government--1945-1953</mods:geographic>
+   </mods:subject>
+   <mods:recordInfo>
+      <mods:recordChangeDate encoding="w3cdtf">2008-4-24</mods:recordChangeDate>
+      <mods:languageOfCataloging>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordOrigin>Base MODS record from Herbert H. Lehman Special Correspondence Files data and edited to conform to the DLF
+                    Implementation Guidelines for Shareable MODS Records.</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>
