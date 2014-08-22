@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="0.8" timestamp="7/2/14 1:17 PM">
+  <identification>
+    <identity format="Tagged Image File Format" mimetype="image/tiff" toolname="FITS" toolversion="0.8">
+      <tool toolname="Jhove" toolversion="1.5" />
+      <tool toolname="file utility" toolversion="5.04" />
+      <tool toolname="Exiftool" toolversion="9.13" />
+      <tool toolname="Droid" toolversion="6.1.3" />
+      <tool toolname="ffident" toolversion="0.2" />
+      <tool toolname="Tika" toolversion="1.3" />
+      <version toolname="Jhove" toolversion="1.5">6.0</version>
+      <externalIdentifier toolname="Droid" toolversion="6.1.3" type="puid">fmt/156</externalIdentifier>
+    </identity>
+  </identification>
+  <fileinfo>
+    <size toolname="Jhove" toolversion="1.5">43778048</size>
+    <creatingApplicationName toolname="Jhove" toolversion="1.5">Adobe Photoshop CS Windows</creatingApplicationName>
+    <lastmodified toolname="Exiftool" toolversion="9.13" status="CONFLICT">2007:06:13 17:41:50-04:00</lastmodified>
+    <lastmodified toolname="Tika" toolversion="1.3" status="CONFLICT">2007-05-30T16:51:28</lastmodified>
+    <created toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">2007:04:05 20:24:33-07:00</created>
+    <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/ifs/cul/ldpd/fstore/archive/Lehman/S_LEH_K12/ldpd_leh_0479_0066_001.tif</filepath>
+    <filename toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">ldpd_leh_0479_0066_001.tif</filename>
+    <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">6d65743da98a0d6e79dd2923d04c45f1</md5checksum>
+    <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1181770910000</fslastmodified>
+  </fileinfo>
+  <filestatus>
+    <well-formed toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">true</well-formed>
+    <valid toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">true</valid>
+  </filestatus>
+  <metadata>
+    <image>
+      <byteOrder toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">big endian</byteOrder>
+      <compressionScheme toolname="Jhove" toolversion="1.5">Uncompressed</compressionScheme>
+      <imageWidth toolname="Jhove" toolversion="1.5">3351</imageWidth>
+      <imageHeight toolname="Jhove" toolversion="1.5">4352</imageHeight>
+      <colorSpace toolname="Jhove" toolversion="1.5">RGB</colorSpace>
+      <referenceBlackWhite toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">0.0 255.0 0.0 255.0 0.0 255.0</referenceBlackWhite>
+      <iccProfileName toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">Adobe RGB (1998)</iccProfileName>
+      <orientation toolname="Jhove" toolversion="1.5">normal*</orientation>
+      <samplingFrequencyUnit toolname="Jhove" toolversion="1.5">in.</samplingFrequencyUnit>
+      <xSamplingFrequency toolname="Jhove" toolversion="1.5">400</xSamplingFrequency>
+      <ySamplingFrequency toolname="Jhove" toolversion="1.5">400</ySamplingFrequency>
+      <bitsPerSample toolname="Jhove" toolversion="1.5">8 8 8</bitsPerSample>
+      <samplesPerPixel toolname="Jhove" toolversion="1.5">3</samplesPerPixel>
+      <imageProducer toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">Columbia University</imageProducer>
+      <scanningSoftwareName toolname="Jhove" toolversion="1.5">Adobe Photoshop CS Windows</scanningSoftwareName>
+      <digitalCameraModelName toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">Hasselblad CFH - Hasselblad H1</digitalCameraModelName>
+      <fNumber toolname="Jhove" toolversion="1.5">16</fNumber>
+      <exposureTime toolname="Jhove" toolversion="1.5" status="CONFLICT">0.125</exposureTime>
+      <exposureTime toolname="Exiftool" toolversion="9.13" status="CONFLICT">1/8</exposureTime>
+      <isoSpeedRating toolname="Jhove" toolversion="1.5">50</isoSpeedRating>
+      <lightSource toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">unknown</lightSource>
+      <meteringMode toolname="Jhove" toolversion="1.5" status="SINGLE_RESULT">Average</meteringMode>
+      <flash toolname="Jhove" toolversion="1.5">Flash did not fire</flash>
+      <focalLength toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">80.0</focalLength>
+      <iccProfileVersion toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">2.1.0</iccProfileVersion>
+      <digitalCameraManufacturer toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">Hasselblad</digitalCameraManufacturer>
+      <exposureProgram toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">Manual</exposureProgram>
+      <exifVersion toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">0210</exifVersion>
+      <shutterSpeedValue toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">1/8</shutterSpeedValue>
+      <apertureValue toolname="Exiftool" toolversion="9.13" status="SINGLE_RESULT">16.0</apertureValue>
+      <standard>
+        <mix:mix xmlns:mix="http://www.loc.gov/mix/v20">
+          <mix:BasicDigitalObjectInformation>
+            <mix:byteOrder>big endian</mix:byteOrder>
+            <mix:Compression>
+              <mix:compressionScheme>Uncompressed</mix:compressionScheme>
+            </mix:Compression>
+          </mix:BasicDigitalObjectInformation>
+          <mix:BasicImageInformation>
+            <mix:BasicImageCharacteristics>
+              <mix:imageWidth>3351</mix:imageWidth>
+              <mix:imageHeight>4352</mix:imageHeight>
+              <mix:PhotometricInterpretation>
+                <mix:colorSpace>RGB</mix:colorSpace>
+                <mix:ColorProfile>
+                  <mix:IccProfile>
+                    <mix:iccProfileName>Adobe RGB (1998)</mix:iccProfileName>
+                    <mix:iccProfileVersion>2.1.0</mix:iccProfileVersion>
+                  </mix:IccProfile>
+                </mix:ColorProfile>
+                <mix:ReferenceBlackWhite>
+                  <mix:Component>
+                    <mix:componentPhotometricInterpretation>R</mix:componentPhotometricInterpretation>
+                    <mix:footroom>
+                      <mix:numerator>25500</mix:numerator>
+                      <mix:denominator>100</mix:denominator>
+                    </mix:footroom>
+                    <mix:headroom>
+                      <mix:numerator>0</mix:numerator>
+                      <mix:denominator>100</mix:denominator>
+                    </mix:headroom>
+                  </mix:Component>
+                  <mix:Component>
+                    <mix:componentPhotometricInterpretation>G</mix:componentPhotometricInterpretation>
+                    <mix:footroom>
+                      <mix:numerator>25500</mix:numerator>
+                      <mix:denominator>100</mix:denominator>
+                    </mix:footroom>
+                    <mix:headroom>
+                      <mix:numerator>0</mix:numerator>
+                      <mix:denominator>100</mix:denominator>
+                    </mix:headroom>
+                  </mix:Component>
+                  <mix:Component>
+                    <mix:componentPhotometricInterpretation>B</mix:componentPhotometricInterpretation>
+                    <mix:footroom>
+                      <mix:numerator>25500</mix:numerator>
+                      <mix:denominator>100</mix:denominator>
+                    </mix:footroom>
+                    <mix:headroom>
+                      <mix:numerator>0</mix:numerator>
+                      <mix:denominator>100</mix:denominator>
+                    </mix:headroom>
+                  </mix:Component>
+                </mix:ReferenceBlackWhite>
+              </mix:PhotometricInterpretation>
+            </mix:BasicImageCharacteristics>
+          </mix:BasicImageInformation>
+          <mix:ImageCaptureMetadata>
+            <mix:GeneralCaptureInformation>
+              <mix:dateTimeCreated>2007-04-05T20:24:33.0Z</mix:dateTimeCreated>
+              <mix:imageProducer>Columbia University</mix:imageProducer>
+            </mix:GeneralCaptureInformation>
+            <mix:ScannerCapture>
+              <mix:ScanningSystemSoftware>
+                <mix:scanningSoftwareName>Adobe Photoshop CS Windows</mix:scanningSoftwareName>
+              </mix:ScanningSystemSoftware>
+            </mix:ScannerCapture>
+            <mix:DigitalCameraCapture>
+              <mix:digitalCameraManufacturer>Hasselblad</mix:digitalCameraManufacturer>
+              <mix:DigitalCameraModel>
+                <mix:digitalCameraModelName>Hasselblad CFH - Hasselblad H1</mix:digitalCameraModelName>
+              </mix:DigitalCameraModel>
+              <mix:CameraCaptureSettings>
+                <mix:ImageData>
+                  <mix:fNumber>16.0</mix:fNumber>
+                  <mix:exposureTime>0.125</mix:exposureTime>
+                  <mix:exposureProgram>Manual</mix:exposureProgram>
+                  <mix:isoSpeedRatings>50</mix:isoSpeedRatings>
+                  <mix:shutterSpeedValue>
+                    <mix:numerator>1</mix:numerator>
+                    <mix:denominator>8</mix:denominator>
+                  </mix:shutterSpeedValue>
+                  <mix:apertureValue>
+                    <mix:numerator>1600</mix:numerator>
+                    <mix:denominator>100</mix:denominator>
+                  </mix:apertureValue>
+                  <mix:meteringMode>Average</mix:meteringMode>
+                  <mix:lightSource>unknown</mix:lightSource>
+                  <mix:flash>Flash did not fire</mix:flash>
+                  <mix:focalLength>80.0</mix:focalLength>
+                </mix:ImageData>
+              </mix:CameraCaptureSettings>
+            </mix:DigitalCameraCapture>
+            <mix:orientation>normal*</mix:orientation>
+          </mix:ImageCaptureMetadata>
+          <mix:ImageAssessmentMetadata>
+            <mix:SpatialMetrics>
+              <mix:samplingFrequencyUnit>in.</mix:samplingFrequencyUnit>
+              <mix:xSamplingFrequency>
+                <mix:numerator>400</mix:numerator>
+                <mix:denominator>1</mix:denominator>
+              </mix:xSamplingFrequency>
+              <mix:ySamplingFrequency>
+                <mix:numerator>400</mix:numerator>
+                <mix:denominator>1</mix:denominator>
+              </mix:ySamplingFrequency>
+            </mix:SpatialMetrics>
+            <mix:ImageColorEncoding>
+              <mix:BitsPerSample>
+                <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+                <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+                <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+                <mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+              </mix:BitsPerSample>
+              <mix:samplesPerPixel>3</mix:samplesPerPixel>
+            </mix:ImageColorEncoding>
+          </mix:ImageAssessmentMetadata>
+        </mix:mix>
+      </standard>
+    </image>
+  </metadata>
+  <statistics fitsExecutionTime="1850">
+    <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+    <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+    <tool toolname="Jhove" toolversion="1.5" executionTime="1130" />
+    <tool toolname="file utility" toolversion="5.04" executionTime="440" />
+    <tool toolname="Exiftool" toolversion="9.13" executionTime="497" />
+    <tool toolname="Droid" toolversion="6.1.3" executionTime="654" />
+    <tool toolname="NLNZ Metadata Extractor" toolversion="3.4GA" status="did not run" />
+    <tool toolname="OIS File Information" toolversion="0.2" executionTime="1775" />
+    <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+    <tool toolname="ffident" toolversion="0.2" executionTime="175" />
+    <tool toolname="Tika" toolversion="1.3" executionTime="1804" />
+  </statistics>
+</fits>
+
