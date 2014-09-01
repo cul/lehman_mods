@@ -1,64 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mods="http://www.loc.gov/mods/v3"
-           version="3.2">
-   <mods:identifier displayLabel="Lehman Papers ID" type="local">ldpd_leh_0469_0011</mods:identifier>
-   <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
-   <mods:language>
-      <mods:languageTerm type="text">English</mods:languageTerm>
-      <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
-   </mods:language>
-   <mods:titleInfo>
-      <mods:title>Telegram, 1942 August 24</mods:title>
-   </mods:titleInfo>
-   <mods:originInfo>
-      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1942-08-24</mods:dateCreated>
-   </mods:originInfo>
-   <mods:physicalDescription>
-      <mods:extent>1 p.</mods:extent>
-      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
-      <mods:reformattingQuality>access</mods:reformattingQuality>
-      <mods:internetMediaType>text/html</mods:internetMediaType>
-      <mods:internetMediaType>image/jpeg</mods:internetMediaType>
-   </mods:physicalDescription>
-   <mods:note>The entire content of the original has been digitized</mods:note>
-   <mods:accessCondition type="useAndReproduction">For rights relating to this resource, visit
-                http://ldpd.lamp.columbia.edu/lehman/rights/</mods:accessCondition>
-   <mods:relatedItem type="host">
-      <mods:titleInfo>
-         <mods:title>Kelly, Frank V. [Correspondence]. Herbert H. Lehman Papers, Special Correspondence Files.</mods:title>
-      </mods:titleInfo>
-      <mods:typeOfResource>text</mods:typeOfResource>
-      <mods:location>
-         <mods:url usage="primary display" access="object in context">http://ldpd.lamp.columbia.edu/lehman/search/?file_unittitle_t=Kelly, Frank V.</mods:url>
-      </mods:location>
-      <mods:note>Online collection published by Columbia University, New York, NY</mods:note>
-   </mods:relatedItem>
-   <mods:targetAudience authority="marctarget">general</mods:targetAudience>
-   <mods:location>
-      <mods:physicalLocation authority="marcOrg">Rare Book and Manuscript Library, Columbia University</mods:physicalLocation>
-      <mods:physicalLocation authority="marcOrg">NNC-RB</mods:physicalLocation>
-      <mods:url access="object in context" usage="primary display">http://ldpd.lamp.columbia.edu/lehman/document_id=ldpd_leh_0469_0011</mods:url>
-   </mods:location>
-   <mods:name type="personal" authority="naf">
-      <mods:namePart>Lehman, Herbert H. (Herbert Henry)</mods:namePart>
-      <mods:namePart type="date">1878-1963</mods:namePart>
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:mods="http://www.loc.gov/mods/v3"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">ldpd_leh_0469_0011</mods:identifier>
+   <mods:name authority="naf">
+      <mods:namePart>Lehman, Herbert H. (Herbert Henry), 1878-1963</mods:namePart>
       <mods:role>
-         <mods:roleTerm type="code" authority="marcrelator">crp</mods:roleTerm>
-         <mods:roleTerm type="text" authority="marcrelator">Correspondent</mods:roleTerm>
+         <mods:roleTerm authority="marcrelator" type="code">crp</mods:roleTerm>
+         <mods:roleTerm type="text">Correspondent</mods:roleTerm>
       </mods:role>
    </mods:name>
+   <mods:name>
+      <mods:namePart>Kelly, Frank V.</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="code" authority="marcorg">crp</mods:roleTerm>
+         <mods:roleTerm type="text" authority="marcorg">Correspondent</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Telegram : 1942 August 24</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent unit="page">1</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+      <mods:reformattingQuality>preservation</mods:reformattingQuality>
+   </mods:physicalDescription>
+   <mods:originInfo>
+      <mods:dateCreated>1942 August 24</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1942-08-24</mods:dateCreated>
+   </mods:originInfo>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:typeOfResource>still image</mods:typeOfResource>
    <mods:subject authority="lcsh">
-      <mods:geographic>United States--Politics and government--1865-1950</mods:geographic>
+      <mods:topic>United States--Politics and government--1933-1945</mods:topic>
    </mods:subject>
    <mods:subject authority="lcsh">
-      <mods:geographic>United States--Politics and government--1933-1945</mods:geographic>
+      <mods:topic>United States--Politics and government--1865-1950</mods:topic>
    </mods:subject>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+   </mods:language>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Lehman, Herbert H. (Herbert Henry), 1878-1963</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg">NNC-RB</mods:physicalLocation>
+      <mods:physicalLocation>Rare Book &amp; Manuscript Library, Columbia University</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://lehman.cul.columbia.edu/lehman/document_id=ldpd_leh_0469_0011</mods:url>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:shelfLocator>Folder 686 : Kelly, Frank V.</mods:shelfLocator>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:title>Lehman special correspondence files</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?clio6606869</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:relatedItem type="host" displayLabel="Collection">
+      <mods:titleInfo>
+         <mods:title>Herbert H. Lehman papers</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="series" level="1">
+            <mods:title>Special Files</mods:title>
+         </mods:detail>
+         <mods:detail type="subseries" level="2">
+            <mods:title>Correspondence Files 1895-1963</mods:title>
+         </mods:detail>
+         <mods:detail type="folder" level="3">
+            <mods:title>Kelly, Frank V.</mods:title>
+         </mods:detail>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:accessCondition>For rights relating to this resource, visithttp://lehman.cul.columbia.edu/lehman/rights</mods:accessCondition>
    <mods:recordInfo>
-      <mods:recordChangeDate encoding="w3cdtf">2008-4-24</mods:recordChangeDate>
       <mods:languageOfCataloging>
-         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
       </mods:languageOfCataloging>
-      <mods:recordOrigin>Base MODS record from Herbert H. Lehman Special Correspondence Files data and edited to conform to the DLF
-                    Implementation Guidelines for Shareable MODS Records.</mods:recordOrigin>
+      <mods:recordIdentifier>ldpd_leh_0469_0011_descMetadata</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Created and edited in general conformance to MODS Guideline
+                        (Version 3).</mods:recordOrigin>
    </mods:recordInfo>
 </mods:mods>
