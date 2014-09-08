@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <mods:identifier type="local">ldpd_leh_0677_0024</mods:identifier>
+   <mods:name authority="naf">
+      <mods:namePart>Lehman, Herbert H. (Herbert Henry), 1878-1963</mods:namePart>
+      <mods:role>
+         <mods:roleTerm authority="marcrelator" type="code">crp</mods:roleTerm>
+         <mods:roleTerm type="text">Correspondent</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:name>
+      <mods:namePart>Neufeld, Maurice and Hinda</mods:namePart>
+      <mods:role>
+         <mods:roleTerm type="code" authority="marcorg">crp</mods:roleTerm>
+         <mods:roleTerm type="text" authority="marcorg">Correspondent</mods:roleTerm>
+      </mods:role>
+   </mods:name>
+   <mods:titleInfo supplied="yes">
+      <mods:title>Letter : 1947 June 27</mods:title>
+   </mods:titleInfo>
+   <mods:physicalDescription>
+      <mods:extent unit="page">2</mods:extent>
+      <mods:form authority="gmgpc">correspondence</mods:form>
+      <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+      <mods:reformattingQuality>preservation</mods:reformattingQuality>
+   </mods:physicalDescription>
+   <mods:originInfo>
+      <mods:dateCreated>1947 June 27</mods:dateCreated>
+      <mods:dateCreated encoding="w3cdtf" keyDate="yes">1947-06-27</mods:dateCreated>
+   </mods:originInfo>
+   <mods:typeOfResource>text</mods:typeOfResource>
+   <mods:typeOfResource>still image</mods:typeOfResource>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--Politics and government--1945-1953</mods:topic>
+   </mods:subject>
+   <mods:subject authority="lcsh">
+      <mods:topic>United States--Politics and government--1865-1950</mods:topic>
+   </mods:subject>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+   </mods:language>
+   <mods:subject>
+      <mods:name authority="naf">
+         <mods:namePart>Lehman, Herbert H. (Herbert Henry), 1878-1963</mods:namePart>
+      </mods:name>
+   </mods:subject>
+   <mods:location>
+      <mods:physicalLocation authority="marcorg">NNC-RB</mods:physicalLocation>
+      <mods:physicalLocation>Rare Book &amp; Manuscript Library, Columbia University</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://lehman.cul.columbia.edu/lehman/document_id=ldpd_leh_0677_0024</mods:url>
+      <mods:holdingSimple>
+         <mods:copyInformation>
+            <mods:shelfLocator>Folder 998 : Neufeld, Maurice and Hinda</mods:shelfLocator>
+         </mods:copyInformation>
+      </mods:holdingSimple>
+   </mods:location>
+   <mods:relatedItem type="host" displayLabel="Project">
+      <mods:titleInfo>
+         <mods:title>Lehman special correspondence files</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo eventType="publication">
+         <mods:place>
+            <mods:placeTerm>New York, NY</mods:placeTerm>
+         </mods:place>
+         <mods:publisher>Columbia University Libraries</mods:publisher>
+      </mods:originInfo>
+      <mods:location>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?clio6606869</mods:url>
+      </mods:location>
+   </mods:relatedItem>
+   <mods:relatedItem type="host" displayLabel="Collection">
+      <mods:titleInfo>
+         <mods:title>Herbert H. Lehman papers</mods:title>
+      </mods:titleInfo>
+      <mods:part>
+         <mods:detail type="series" level="1">
+            <mods:title>Special Files</mods:title>
+         </mods:detail>
+         <mods:detail type="subseries" level="2">
+            <mods:title>Correspondence Files 1895-1963</mods:title>
+         </mods:detail>
+         <mods:detail type="folder" level="3">
+            <mods:title>Neufeld, Maurice and Hinda</mods:title>
+         </mods:detail>
+      </mods:part>
+   </mods:relatedItem>
+   <mods:accessCondition>For rights relating to this resource, visithttp://lehman.cul.columbia.edu/lehman/rights</mods:accessCondition>
+   <mods:recordInfo>
+      <mods:languageOfCataloging>
+         <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+      </mods:languageOfCataloging>
+      <mods:recordIdentifier>ldpd_leh_0677_0024_descMetadata</mods:recordIdentifier>
+      <mods:recordContentSource authority="marcorg">NNC</mods:recordContentSource>
+      <mods:recordOrigin>Created and edited in general conformance to MODS Guideline
+                        (Version 3).</mods:recordOrigin>
+   </mods:recordInfo>
+</mods:mods>

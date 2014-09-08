@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:mods="http://www.loc.gov/mods/v3"
-   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <mods:identifier type="local">ldpd_leh_0896_0001</mods:identifier>
    <mods:name authority="naf">
       <mods:namePart>Lehman, Herbert H. (Herbert Henry), 1878-1963</mods:namePart>
@@ -33,23 +33,23 @@
    <mods:typeOfResource>text</mods:typeOfResource>
    <mods:typeOfResource>still image</mods:typeOfResource>
    <mods:subject authority="lcsh">
-      <mods:topic>United States--Politics and
-                        government--1933-1945</mods:topic>
+      <mods:topic>United States--Politics and government--1933-1945</mods:topic>
    </mods:subject>
    <mods:subject authority="lcsh">
       <mods:topic>United States--Politics and government--1865-1950</mods:topic>
    </mods:subject>
+   <mods:language>
+      <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+   </mods:language>
    <mods:subject>
-      <mods:name>
+      <mods:name authority="naf">
          <mods:namePart>Lehman, Herbert H. (Herbert Henry), 1878-1963</mods:namePart>
       </mods:name>
    </mods:subject>
    <mods:location>
       <mods:physicalLocation authority="marcorg">NNC-RB</mods:physicalLocation>
-      <mods:physicalLocation type="text">"Rare Book &amp; Manuscript Library, Columbia
-                        University</mods:physicalLocation>
-      <mods:url usage="primary display" access="object in context"
-         >http://lehman.cul.columbia.edu/lehman/document_id=ldpd_leh_0896_0001</mods:url>
+      <mods:physicalLocation>Rare Book &amp; Manuscript Library, Columbia University</mods:physicalLocation>
+      <mods:url usage="primary display" access="object in context">http://lehman.cul.columbia.edu/lehman/document_id=ldpd_leh_0896_0001</mods:url>
       <mods:holdingSimple>
          <mods:copyInformation>
             <mods:shelfLocator>Folder 1329 : Thomas, Elmer</mods:shelfLocator>
@@ -67,12 +67,12 @@
          <mods:publisher>Columbia University Libraries</mods:publisher>
       </mods:originInfo>
       <mods:location>
-         <mods:url>http://www. columbia.edu/cgi-bin/cul/resolve?clio6606869</mods:url>
+         <mods:url>http://www.columbia.edu/cgi-bin/cul/resolve?clio6606869</mods:url>
       </mods:location>
    </mods:relatedItem>
    <mods:relatedItem type="host" displayLabel="Collection">
       <mods:titleInfo>
-         <mods:title>Herbert H. Lehman papers </mods:title>
+         <mods:title>Herbert H. Lehman papers</mods:title>
       </mods:titleInfo>
       <mods:part>
          <mods:detail type="series" level="1">
@@ -86,8 +86,7 @@
          </mods:detail>
       </mods:part>
    </mods:relatedItem>
-   <mods:accessCondition>For rights relating to this resource, visit
-      http://lehman.cul.columbia.edu/lehman/rights</mods:accessCondition>
+   <mods:accessCondition>For rights relating to this resource, visithttp://lehman.cul.columbia.edu/lehman/rights</mods:accessCondition>
    <mods:recordInfo>
       <mods:languageOfCataloging>
          <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>

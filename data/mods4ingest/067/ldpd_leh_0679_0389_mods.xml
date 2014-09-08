@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-           xmlns:mods="http://www.loc.gov/mods/v3"
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
    <mods:identifier type="local">ldpd_leh_0679_0389</mods:identifier>
    <mods:name authority="naf">
@@ -18,7 +18,7 @@
       </mods:role>
    </mods:name>
    <mods:titleInfo supplied="yes">
-      <mods:title>Ephemera : </mods:title>
+      <mods:title>Ephemera : n.d.</mods:title>
    </mods:titleInfo>
    <mods:physicalDescription>
       <mods:extent unit="page">1</mods:extent>
