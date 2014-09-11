@@ -21,7 +21,7 @@
       <mods:title>Press release : 1954 December 13</mods:title>
    </mods:titleInfo>
    <mods:physicalDescription>
-      <mods:extent unit="page">7</mods:extent>
+      <mods:extent>7 pages</mods:extent>
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
       <mods:reformattingQuality>preservation</mods:reformattingQuality>

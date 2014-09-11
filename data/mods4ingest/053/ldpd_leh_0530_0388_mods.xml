@@ -21,7 +21,7 @@
       <mods:title>Letter : n.d.</mods:title>
    </mods:titleInfo>
    <mods:physicalDescription>
-      <mods:extent unit="page">24</mods:extent>
+      <mods:extent>24 pages</mods:extent>
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
       <mods:reformattingQuality>preservation</mods:reformattingQuality>

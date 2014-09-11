@@ -21,7 +21,7 @@
       <mods:title>Memorandum : 1946 January 23</mods:title>
    </mods:titleInfo>
    <mods:physicalDescription>
-      <mods:extent unit="page">2</mods:extent>
+      <mods:extent>2 pages</mods:extent>
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
       <mods:reformattingQuality>preservation</mods:reformattingQuality>

@@ -21,7 +21,7 @@
       <mods:title>Pamphlet : 1932 August 15</mods:title>
    </mods:titleInfo>
    <mods:physicalDescription>
-      <mods:extent unit="page">30</mods:extent>
+      <mods:extent>30 pages</mods:extent>
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
       <mods:reformattingQuality>preservation</mods:reformattingQuality>

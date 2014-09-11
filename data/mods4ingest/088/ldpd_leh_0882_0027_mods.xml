@@ -21,7 +21,7 @@
       <mods:title>Chart : 1948 August 19</mods:title>
    </mods:titleInfo>
    <mods:physicalDescription>
-      <mods:extent unit="page">1</mods:extent>
+      <mods:extent>1 page</mods:extent>
       <mods:form authority="gmgpc">correspondence</mods:form>
       <mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
       <mods:reformattingQuality>preservation</mods:reformattingQuality>

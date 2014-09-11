@@ -17,7 +17,7 @@
         <xsl:message select="field[@name = 'document_id']"/>
         <xsl:variable name="dir" select="substring(tokenize(field[@name = 'document_id'], '_')[3], 1, 3)"/>
         <xsl:message select="$dir"/>
-        <xsl:result-document encoding="utf-8" href="mods/{$dir}/{field[@name = 'document_id']}_mods.xml">
+        <xsl:result-document encoding="utf-8" href="data/mods4ingest/{$dir}/{field[@name = 'document_id']}_mods.xml">
             <mods:mods xmlns:mods="http://www.loc.gov/mods/v3"
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                 xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
@@ -63,8 +63,10 @@
                     </mods:title>
                 </mods:titleInfo>
                 <mods:physicalDescription>
-                    <mods:extent unit="page">
+                    <mods:extent>
                         <xsl:value-of select="field[@name = 'pages']"/>
+                        <xsl:text> page</xsl:text>
+                        <xsl:if test="number(field[@name = 'pages']) != 1">s</xsl:if>
                     </mods:extent>
                     <mods:form authority="gmgpc">
                         <xsl:text>correspondence</xsl:text>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="16.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="lehman_mods.xpr">
+        <folder path="data/mods4ingest/"/>
+        <file name="lehman2mods.xsl"/>
+        <file name="lehman_solr.xml"/>
+    </projectTree>
+</project>
